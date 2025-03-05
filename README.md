@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning about technology.
 - 💞️ I’m looking to collaborate on my interest
 - 📫 How to reach me in another world maybe
-- 😄 Pronouns: feel hungry to learn
-- ⚡ Fun fact: love you
 
 <!---
 gilangages/gilangages is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
