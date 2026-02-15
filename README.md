@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @gilangages, learner from 0 even below 0
-- 👀 I’m interested in web
-- 🌱 I’m currently learning about technology.
-- 💞️ I’m looking to collaborate on my interest
-- 📫 How to reach me in another world maybe
+<h1>hi developers on github, please be nice</h1>
 
 <!---
 gilangages/gilangages is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
