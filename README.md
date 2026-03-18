@@ -15,7 +15,7 @@ I am a relentless learner and an **Informatics Engineering** student from **Indo
 * Programming
 * Reading Manga (mostly dark fantasy, psychological horror, and slice of life themes)
 * Tech
-* Sometimes drawing
+* Drawing (occasionally)
 
 ## 🌱 Learning & Collaboration
 
@@ -28,12 +28,17 @@ I am a relentless learner and an **Informatics Engineering** student from **Indo
 | :--- | :--- |
 | **Languages** | JavaScript, TypeScript, PHP, HTML5, CSS3 |
 | **Frontend** | Vue.js, React, Next.js, Tailwind CSS |
-| **Backend** | Laravel, NodeJS, Express.js |
+| **Backend** | Laravel, Node.js, Express.js |
+| **Database** | MySQL |
 | **Tools & DevOps** | Git, GitHub, npm |
 
 <br>
 
-*Thank you for stopping by! ✨*
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=2000&color=C084FC&center=true&vCenter=true&width=800&lines=while(alive)+%7B+keepCoding()%3B+%7D+%2F%2F+Thanks+for+dropping+by!+✨" alt="Footer Typing SVG" />
+  </a>
+</div>
 
 <!---
 gilangages/gilangages is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
