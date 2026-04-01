@@ -19,7 +19,7 @@ I am a relentless learner and an **Informatics Engineering** student from **Indo
 
 ## 🌱 Learning & Collaboration
 
-* **Current Focus:** Writing clean, scalable, and easy-to-maintain code, exploring advanced backend architecture, unit/integration testing, and design patterns.
+* **Current Focus:** Writing clean, scalable, and easy-to-maintain code, exploring advanced backend architecture, unit/integration testing, and design patterns. Currently, I am also diving into **Flutter** and **Dart** for cross-platform mobile development.
 * **Collaboration:** I genuinely love collaborating because it's an amazing way to learn and grow together. However, I am still learning how to be a proper collaborator since teamwork carries bigger responsibilities. Right now, I'm building solo projects to strengthen my core skills so I can be a much better team player in the future.
 
 ## 💻 Tech Stack & Tools
@@ -28,6 +28,7 @@ I am a relentless learner and an **Informatics Engineering** student from **Indo
 | :--- | :--- |
 | **Languages** | JavaScript, TypeScript, PHP, HTML5, CSS3 |
 | **Frontend** | Vue.js, React, Next.js, Tailwind CSS |
+| **Mobile** | Flutter (Currently Learning) |
 | **Backend** | Laravel, Node.js, Express.js |
 | **Database** | MySQL |
 | **Tools & DevOps** | Git, GitHub, npm |
