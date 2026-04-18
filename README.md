@@ -1,4 +1,5 @@
-<div align="center">
+vibes speak louder.
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hello+everyone!👋;I%27m+Gilang+Abdian+Anggara" alt="Typing SVG" />
   </a>
@@ -39,7 +40,7 @@ I am a relentless learner and an **Informatics Engineering** student from **Indo
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=2000&color=C084FC&center=true&vCenter=true&width=800&lines=while(alive)+%7B+keepCoding()%3B+%7D+%2F%2F+Thanks+for+dropping+by!+✨" alt="Footer Typing SVG" />
   </a>
-</div>
+</div> -->
 
 <!---
 gilangages/gilangages is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
